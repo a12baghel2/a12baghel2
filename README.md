@@ -16,5 +16,5 @@
       tryagain();
    }
 ```
-<img align ="center" src="https://github-readme-stats.vercel.app/api?username=a12baghel2&&show_icons=true&title_color=ffffff&icon_color=15cgbh&text_color=daf7dc&bg_color=12bcdf">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a12baghel2&layout=compact&hide=html" alt="a12baghel2" />
+<img align ="center" src="https://github-readme-stats.vercel.app/api?username=a12baghel2&&show_icons=true&theme=dracula">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a12baghel2&hide=html" alt="a12baghel2" />
