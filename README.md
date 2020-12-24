@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Web Devlopment.
 - 💬 Ask me about any tech related stuff or about coding problems.
-- 📫 How to reach me: [Twitter: @a12baghel2](https://twitter.com/a12baghel2) | [Instagram: @a12baghel2](https://www.instagram.com/a12baghel2/)
+- 📫 How to reach me: [Twitter: @a12baghel2](https://twitter.com/a12baghel2) | [Instagram: @a12baghel2](https://www.instagram.com/abhimanyuuu_____/)
 
 ⚡ My life mantra: 
 ```c++
