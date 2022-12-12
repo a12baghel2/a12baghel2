@@ -16,5 +16,4 @@
       tryagain();
    }
 ```
-<img src="https://github-readme-stats.vercel.app/api?username=a12baghel2&show_icons=true&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a12baghel2&hide=html&theme=dracula" alt="a12baghel2" />
+
