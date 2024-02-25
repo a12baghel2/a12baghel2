@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Dev project<br>👯 I’m looking to collaborate on Web Dev projects<br>🤝 I’m looking for help with react<br>🌱 I’m currently learning and building my skills in Data Science<br>💬 Ask me about technology, web development, Ai<br>⚡ Fun fact I learn by doing and try different approaches to solve bug
+🔭 I’m currently working on ML Projects<br>👯 I’m looking to collaborate on Gen AI projects<br>🤝 I’m looking for help with LLMs<br>🌱 I’m currently learning and building my skills in Data Science<br>💬 Ask me about technology, web development, Ai, GenAI<br>⚡ Fun fact I learn by doing and try different approaches to solve bug
 
 
 ## 🌐 Socials:
